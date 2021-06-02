@@ -1,2 +1,2 @@
 # veille-api-rest
-Veille technologique sur le API REST
+Veille technologique sur les API REST
